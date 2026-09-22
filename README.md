@@ -125,7 +125,7 @@ Possuo pós-graduação em **Desenvolvimento Full Stack** pelo UniCEUB e formaç
       </p>
       <p>Gerenciador de tarefas moderno com tema espacial/cyberpunk. Possui autenticação com tokens JWT, Context API para gerenciamento de sessão global, filtros por prioridade e abas em formato de planetas.</p>
       <p align="center">
-        <a href="https://github.com/lucasfukuta"><strong>Explore o Código »</strong></a>
+        <a href="https://github.com/lucasfukuta/React-FrontEnd"><strong>Explore o Código »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -137,7 +137,7 @@ Possuo pós-graduação em **Desenvolvimento Full Stack** pelo UniCEUB e formaç
       </p>
       <p>Aplicação Full-Stack com Blazor WebAssembly e ASP.NET Core Web API. Interface moderna baseada em Material Design (MudBlazor) com operações CRUD completas, modais dinâmicos e persistência em SQL Server.</p>
       <p align="center">
-        <a href="https://github.com/lucasfukuta"><strong>Explore o Código »</strong></a>
+        <a href="https://github.com/lucasfukuta/PosMudblazorCRUD"><strong>Explore o Código »</strong></a>
       </p>
     </td>
   </tr>
@@ -151,7 +151,7 @@ Possuo pós-graduação em **Desenvolvimento Full Stack** pelo UniCEUB e formaç
       </p>
       <p>Sistema completo de gestão empresarial com arquitetura Blazor WebAssembly Hosted no .NET 8. Centraliza demandas e tarefas corporativas, controle de patrimônio/equipamentos, gestão de colaboradores e catálogo de links úteis.</p>
       <p align="center">
-        <a href="https://github.com/lucasfukuta"><strong>Explore o Código »</strong></a>
+        <a href="https://github.com/lucasfukuta/Hubbetech"><strong>Explore o Código »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -163,7 +163,7 @@ Possuo pós-graduação em **Desenvolvimento Full Stack** pelo UniCEUB e formaç
       </p>
       <p>Plataforma fitness construída com Clean Architecture em .NET. Acompanhamento de rotinas de treino, métricas de evolução, controle nutricional/refeições, comunidade com desafios sociais e pets virtuais que evoluem com a constância do usuário.</p>
       <p align="center">
-        <a href="https://github.com/lucasfukuta"><strong>Explore o Código »</strong></a>
+        <a href="https://github.com/lucasfukuta/MyBeastAPP"><strong>Explore o Código »</strong></a>
       </p>
     </td>
   </tr>
@@ -177,7 +177,7 @@ Possuo pós-graduação em **Desenvolvimento Full Stack** pelo UniCEUB e formaç
       </p>
       <p>Jogo 3D no estilo Zig-Zag Runner com plataformas instanciadas proceduralmente em tempo real, física de desmoronamento dinâmico com Rigidbody, predadores no caminho e sistema de High Score persistente.</p>
       <p align="center">
-        <a href="https://github.com/lucasfukuta"><strong>Explore o Código »</strong></a>
+        <a href="https://github.com/lucasfukuta/GoChicken"><strong>Explore o Código »</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -189,7 +189,7 @@ Possuo pós-graduação em **Desenvolvimento Full Stack** pelo UniCEUB e formaç
       </p>
       <p>Aplicativo gastronômico multiplataforma desenvolvido em Flutter com alternância em tempo real entre temas Claro e Escuro, carrosséis de categorias culinárias, cards de restaurantes e feed social da comunidade.</p>
       <p align="center">
-        <a href="https://github.com/lucasfukuta"><strong>Explore o Código »</strong></a>
+        <a href="https://github.com/lucasfukuta/Mobile-Ceub"><strong>Explore o Código »</strong></a>
       </p>
     </td>
   </tr>
