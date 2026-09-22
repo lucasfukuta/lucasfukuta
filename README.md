@@ -20,6 +20,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,python,git,github,docker,postgres,sqlite,azure" />
+</p>
+
 ---
 
 ### Sobre mim
@@ -107,7 +111,7 @@ Possuo pós-graduação em **Desenvolvimento Full Stack** pelo UniCEUB e formaç
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 <div align="center">
 <table width="100%">
@@ -193,29 +197,29 @@ Possuo pós-graduação em **Desenvolvimento Full Stack** pelo UniCEUB e formaç
 </div>
 
 ---
-## 🔬 Pesquisa Acadêmica — NPCs Inteligentes & IA Local
+## Pesquisa Acadêmica — NPCs Inteligentes & IA Local
 
-Minha pesquisa de Mestrado na **Universidade de Brasília (UnB / PPGI)** tem como foco NPCs inteligentes e narrativa persistente para jogos, utilizando arquiteturas de IA local em hardware de consumo sem dependência de nuvem.
+Minha pesquisa de Mestrado na **Universidade de Brasília (UnB / PPGI)** tem como foco NPCs inteligentes e narrativa persistente para jogos de RPG, utilizando arquiteturas de IA local em hardware de consumo sem dependência de nuvem.
 
 ```
-                   Unity Engine
-                        │
-                        ▼
-                 Control Module
-                        │
-          ┌─────────────┴─────────────┐
-          ▼                           ▼
-      Local SLM                Knowledge Graph
-          │                           │
-          └─────────────┬─────────────┘
-                        ▼
-            RAG (Context Retrieval)
-                        │
-                        ▼
-              Persistent NPC Memory
-                        │
-                        ▼
-             Emergent Narrative Flow
+                                                      Unity Engine
+                                                            │
+                                                            ▼
+                                                    Control Module
+                                                            │
+                                              ┌─────────────┴─────────────┐
+                                              ▼                           ▼
+                                          Local SLM                Knowledge Graph
+                                              │                           │
+                                              └─────────────┬─────────────┘
+                                                            ▼
+                                                RAG (Context Retrieval)
+                                                            │
+                                                            ▼
+                                                  Persistent NPC Memory
+                                                            │
+                                                            ▼
+                                                Emergent Narrative Flow
 ```
 
 - **Áreas de Foco:** Small Language Models (SLMs), Execução de IA Local, Retrieval-Augmented Generation (RAG), Grafos de Conhecimento (Knowledge Graphs), Memória Persistente de NPCs.
@@ -223,20 +227,20 @@ Minha pesquisa de Mestrado na **Universidade de Brasília (UnB / PPGI)** tem com
 ---
 ## 🎓 Formação Acadêmica
 
-- **🎓 Mestrado — Sistemas de Computação** *(Em andamento)*  
+- **Mestrado — Sistemas de Computação** *(Em andamento)*  
   *Universidade de Brasília — UnB / PPGI*  
   Pesquisa: NPCs inteligentes, narrativa persistente, SLMs locais e IA para jogos.
 
-- **🎓 Pós-Graduação — Desenvolvimento Full Stack**  
+- **Pós-Graduação — Desenvolvimento Full Stack**  
   *UniCEUB*  
   Foco: C#, Ecossistema .NET, Desenvolvimento Web, Bancos de Dados, Arquitetura de Backend.
 
-- **🎓 Formação Acadêmica — Ciência de Dados**  
+- **Formação Acadêmica — Ciência de Dados**  
   Formação acadêmica em Ciência de Dados, estatística e engenharia de software.
 
 ---
 
-### 📬 Conecte-se Comigo
+### Conecte-se Comigo
 
 <div align="center">
 
@@ -258,6 +262,6 @@ Vamos bater um papo sobre tecnologia, projetos ou novas oportunidades?
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer&text=Obrigado%20pela%20visita!%20🚀&fontSize=18&fontAlignY=70&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer&text=Obrigado%20pela%20visita!%20&fontSize=18&fontAlignY=70&fontColor=ffffff" width="100%" />
 
 </div>
